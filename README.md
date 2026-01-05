@@ -1,4 +1,4 @@
-# Socio-Economic Resilience and Sustainability Assessment of Kenya
+# Interdisciplinary advanced data science and artificial intelligence approach for Socio-Economic Resilience and Sustainability Assessment of Kenya
 
 ## Project Overview
 
@@ -6,7 +6,6 @@ This repository presents a **master’s-level, policy-oriented socio-economic an
 
 The analysis is implemented in a fully reproducible Python-based workflow and is designed to support **evidence-based policy evaluation**, **development planning**, and **academic research**.
 
----
 
 ## Objectives
 
@@ -17,7 +16,6 @@ The core objectives of this project are to:
 3. Evaluate Kenya’s progress toward sustainable development using SDG indicators.
 4. Provide an integrated, policy-relevant narrative consistent with World Bank analytical practices.
 
----
 
 ## Analytical Framework
 
@@ -41,7 +39,6 @@ The study follows a **multi-phase analytical framework**, consistent with develo
 * Normalisation and comparative performance analysis
 * Identification of sustainability gaps and policy priorities
 
----
 
 ## Data Sources
 
@@ -53,7 +50,6 @@ All data sources comply with **World Bank data transparency and credibility requ
 
 Where applicable, metadata definitions follow official international standards to ensure consistency and comparability.
 
----
 
 ## Methodology
 
@@ -64,7 +60,6 @@ Where applicable, metadata definitions follow official international standards t
 
 All analytical steps are documented within the notebook to ensure **full reproducibility**, a core World Bank requirement.
 
----
 
 ## Repository Structure
 
@@ -75,16 +70,12 @@ All analytical steps are documented within the notebook to ensure **full reprodu
 ├── README.md               # Project documentation
 ```
 
----
-
 ## Key Outputs
 
 * Macroeconomic trends and diagnostic indicators
 * Sectoral multipliers and structural linkage matrices
 * SDG performance indices and sustainability diagnostics
 * Policy-relevant insights grounded in empirical evidence
-
----
 
 ## Policy Relevance
 
@@ -100,8 +91,6 @@ Findings can inform:
 * Sectoral investment prioritisation
 * Sustainability and SDG-aligned policy design
 
----
-
 ## Reproducibility and Transparency
 
 In line with World Bank research standards:
@@ -112,7 +101,6 @@ In line with World Bank research standards:
 
 Users are encouraged to review the notebook for methodological details and assumptions.
 
----
 
 ## Limitations
 
@@ -122,7 +110,6 @@ Users are encouraged to review the notebook for methodological details and assum
 
 These limitations are acknowledged in line with best practices in development research.
 
----
 
 ## Ethics and Data Use
 
@@ -130,14 +117,11 @@ These limitations are acknowledged in line with best practices in development re
 * All data sources are cited and comply with open-data principles
 * Analysis is conducted solely for academic and policy research purposes
 
----
-
 ## Author
 
 **Seana Mutinda**
 Master’s-level research project in applied economics, development policy, and data analytics.
 
----
 
 ## Citation
 
@@ -145,7 +129,6 @@ If you use or reference this work, please cite it as:
 
 > Mutinda, S. (2025). *Socio-Economic Resilience and Sustainability Assessment of Kenya*. GitHub Repository.
 
----
 
 ## License
 
